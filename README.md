@@ -114,6 +114,7 @@ An LLM gateway sits between applications and model providers, giving them one AP
 - [Pydantic AI Gateway](https://pydantic.dev/ai-gateway) - Pydantic's gateway with one key for major model providers, spend limits and tracing.
 - [Requesty](https://www.requesty.ai) - Gateway and router for hundreds of models with fallback, caching and spend controls.
 - [Respan](https://www.respan.ai) - LLM platform, formerly Keywords AI, with a unified gateway, tracing and evals.
+- [TopxAI](https://ai.topxea.com) - Hosted relay with OpenAI and Anthropic endpoints for seven model lines at fixed USD prices.
 - [TrueFoundry AI Gateway](https://www.truefoundry.com/ai-gateway) - Enterprise gateway with model access control, rate limits, budgets and observability.
 - [Vercel AI Gateway](https://vercel.com/docs/ai-gateway) - Vercel service with one endpoint for many models, budgets, fallbacks and usage monitoring.
 - [Zuplo AI Gateway](https://zuplo.com/ai-gateway) - API gateway feature that routes LLM calls across providers with per-team spend caps.
