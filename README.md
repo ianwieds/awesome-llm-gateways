@@ -103,6 +103,7 @@ An LLM gateway sits between applications and model providers, giving them one AP
 
 ### Managed services
 
+- [APIClaw](https://apiclaw.biz) - Flat-rate OpenAI-compatible API for Claude, GPT, DeepSeek, Qwen, Kimi and GLM models.
 - [Cloudflare AI Gateway](https://developers.cloudflare.com/ai-gateway/) - Cloudflare service that adds caching, rate limits, retries and analytics to LLM calls.
 - [cortecs](https://cortecs.ai) - EU-based LLM router with one OpenAI- and Anthropic-compatible API across providers.
 - [Eden AI](https://www.edenai.co) - One API across many AI providers with model routing and fallback.
