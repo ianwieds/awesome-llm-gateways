@@ -104,6 +104,7 @@ An LLM gateway sits between applications and model providers, giving them one AP
 ### Managed services
 
 - [Cloudflare AI Gateway](https://developers.cloudflare.com/ai-gateway/) - Cloudflare service that adds caching, rate limits, retries and analytics to LLM calls.
+- [Code By AI](https://www.codebyai.net) - Hosted gateway with one key for Claude, GPT/Codex and Gemini models in their native API formats.
 - [cortecs](https://cortecs.ai) - EU-based LLM router with one OpenAI- and Anthropic-compatible API across providers.
 - [Eden AI](https://www.edenai.co) - One API across many AI providers with model routing and fallback.
 - [F5 AI Gateway](https://www.f5.com/products/ai-gateway) - F5 product that inspects, secures and routes traffic between apps and LLMs.
