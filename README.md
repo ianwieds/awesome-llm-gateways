@@ -206,10 +206,10 @@ An LLM gateway sits between applications and model providers, giving them one AP
 - [Awesome AI Tokenomics](https://github.com/QuesmaOrg/awesome-ai-tokenomics) - Tools, benchmarks and reading on what tokens cost and how to cut the bill.
 - [Awesome Routing LLMs](https://github.com/MilkThink-Lab/Awesome-Routing-LLMs) - Papers and code on routing between language models.
 
+<!-- awesome:footer -->
 ## Contributing
 
 Contributions are welcome. Read the [contribution guidelines](contributing.md) first.
 
-<!-- awesome:maintainer -->
 Maintained by [Ian Wiedenman](https://github.com/ianwieds).
-<!-- /awesome:maintainer -->
+<!-- /awesome:footer -->
