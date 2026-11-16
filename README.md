@@ -47,6 +47,7 @@ An LLM gateway sits between applications and model providers, giving them one AP
 - [gproxy](https://github.com/LeenHawk/gproxy) - Rust proxy that serves OpenAI, Claude and Gemini style APIs over many upstream channels.
 - [Helicone AI Gateway](https://github.com/Helicone/ai-gateway) - Rust gateway with routing, fallbacks, rate limits and caching that logs to Helicone.
 - [Inference Gateway](https://github.com/inference-gateway/inference-gateway) - Go gateway that fronts hosted providers and local runtimes such as Ollama.
+- [Kaeso](https://kaeso.app) - Self-hosted Rust AI gateway with OpenAI- and Anthropic-compatible APIs, SSO, budgets and logs.
 - [LiteLLM](https://github.com/BerriAI/litellm) - Proxy and SDK that call 100+ LLM APIs in OpenAI format with keys, budgets and fallbacks.
 - [LLM API Key Proxy](https://github.com/Mirrowel/LLM-API-Key-Proxy) - Proxy with OpenAI and Anthropic endpoints that rotates keys and translates between providers.
 - [LLM Gateway](https://github.com/theopenco/llmgateway) - TypeScript gateway with one API across providers plus usage and cost analytics.
