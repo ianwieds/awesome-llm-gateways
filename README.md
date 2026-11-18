@@ -115,6 +115,7 @@ An LLM gateway sits between applications and model providers, giving them one AP
 - [Requesty](https://www.requesty.ai) - Gateway and router for hundreds of models with fallback, caching and spend controls.
 - [Respan](https://www.respan.ai) - LLM platform, formerly Keywords AI, with a unified gateway, tracing and evals.
 - [TrueFoundry AI Gateway](https://www.truefoundry.com/ai-gateway) - Enterprise gateway with model access control, rate limits, budgets and observability.
+- [UberLLM](https://uberllm.dev) - One OpenAI- and Anthropic-compatible key for text, image and video models, billed at provider cost.
 - [Vercel AI Gateway](https://vercel.com/docs/ai-gateway) - Vercel service with one endpoint for many models, budgets, fallbacks and usage monitoring.
 - [Zuplo AI Gateway](https://zuplo.com/ai-gateway) - API gateway feature that routes LLM calls across providers with per-team spend caps.
 
