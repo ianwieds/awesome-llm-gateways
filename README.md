@@ -163,6 +163,7 @@ An LLM gateway sits between applications and model providers, giving them one AP
 - [Redis LangCache](https://redis.io/langcache/) - Managed Redis service for semantic caching of LLM responses.
 - [RelayPlane](https://github.com/RelayPlane/proxy) - Local proxy that prices each agent request and caps or stops runaway spend.
 - [Semcache](https://github.com/sensoris/semcache) - Rust semantic caching proxy for OpenAI-compatible APIs that runs in memory.
+- [Spendline](https://www.spendline.ai) - AI cost per customer, budgets that block calls before they run, and month-end invoice checks.
 - [tokview](https://github.com/headroomlabs-ai/tokview) - Local proxy and dashboard that shows token use and cost per tool call.
 - [vCache](https://github.com/vcache-project/vCache) - Semantic prompt cache that bounds the error rate of the answers it reuses.
 
