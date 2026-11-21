@@ -112,6 +112,7 @@ An LLM gateway sits between applications and model providers, giving them one AP
 - [OpenRouter](https://openrouter.ai) - One API and bill for hundreds of models with provider routing and fallback.
 - [Orq.ai AI Gateway](https://orq.ai/platform/ai-gateway) - Gateway in the Orq.ai platform with routing, fallbacks, caching and budgets.
 - [Pydantic AI Gateway](https://pydantic.dev/ai-gateway) - Pydantic's gateway with one key for major model providers, spend limits and tracing.
+- [Prune](https://withprune.com) - OpenAI-compatible control plane with provider vault, semantic cache, cheaper-model routing, Shield and signed receipts. Keep `sk-` out of the app.
 - [Requesty](https://www.requesty.ai) - Gateway and router for hundreds of models with fallback, caching and spend controls.
 - [Respan](https://www.respan.ai) - LLM platform, formerly Keywords AI, with a unified gateway, tracing and evals.
 - [TrueFoundry AI Gateway](https://www.truefoundry.com/ai-gateway) - Enterprise gateway with model access control, rate limits, budgets and observability.
