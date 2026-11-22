@@ -108,6 +108,7 @@ An LLM gateway sits between applications and model providers, giving them one AP
 - [Eden AI](https://www.edenai.co) - One API across many AI providers with model routing and fallback.
 - [F5 AI Gateway](https://www.f5.com/products/ai-gateway) - F5 product that inspects, secures and routes traffic between apps and LLMs.
 - [LangDB](https://www.langdb.ai) - Hosted AI gateway built in Rust, with LLM usage analytics and agent tracing.
+- [ModelFold](https://modelfold.ai/docs/en/) - Hosted API with one key for chat and media models and OpenAI-compatible chat.
 - [Netlify AI Gateway](https://www.netlify.com/platform/ai-gateway/) - Netlify feature that gives apps model access with no provider keys, plus rate limits.
 - [OpenRouter](https://openrouter.ai) - One API and bill for hundreds of models with provider routing and fallback.
 - [Orq.ai AI Gateway](https://orq.ai/platform/ai-gateway) - Gateway in the Orq.ai platform with routing, fallbacks, caching and budgets.
